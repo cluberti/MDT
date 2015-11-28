@@ -1,0 +1,9 @@
+<Configuration>
+    <Add SourcePath="\\Server\Share\MDT\Applications\Microsoft Office 365 C2R 2016" OfficeClientEdition="32" Branch="Current">
+        <Product ID="O365ProPlusRetail" >
+            <Language ID="en-us" />
+            <ExcludeApp ID="Lync" />
+        </Product>
+    </Add>
+    <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>

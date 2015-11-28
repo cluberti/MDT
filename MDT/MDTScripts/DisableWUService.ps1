@@ -1,0 +1,1 @@
+sc.exe config wuauserv start= disabled

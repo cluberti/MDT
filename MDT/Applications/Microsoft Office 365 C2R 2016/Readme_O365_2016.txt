@@ -1,0 +1,9 @@
+Download the Office 365 2016 administrative setup installer from:
+http://www.microsoft.com/en-us/download/details.aspx?id=49117
+
+Run downloaded "OfficeDeploymentTool.exe" and extract to this folder using setup.exe:
+setup.exe /download \\server\Share\MDT\Applications\Microsoft Office 365 C2R 2016\CustomSettings.xml
+
+
+More O365 Administrative setup information can be found here:
+https://technet.microsoft.com/en-us/library/jj219424.aspx
