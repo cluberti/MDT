@@ -14,7 +14,7 @@
   <MonitorDataPort>9801</MonitorDataPort>
   <SkipWimSplit>True</SkipWimSplit>
   <Boot.x86.UseBootWim>True</Boot.x86.UseBootWim>
-  <Boot.x86.ScratchSpace>32</Boot.x86.ScratchSpace>
+  <Boot.x86.ScratchSpace>128</Boot.x86.ScratchSpace>
   <Boot.x86.IncludeAllDrivers>False</Boot.x86.IncludeAllDrivers>
   <Boot.x86.IncludeNetworkDrivers>True</Boot.x86.IncludeNetworkDrivers>
   <Boot.x86.IncludeMassStorageDrivers>True</Boot.x86.IncludeMassStorageDrivers>
@@ -34,7 +34,7 @@
   <Boot.x86.SupportUEFI>True</Boot.x86.SupportUEFI>
   <Boot.x86.FeaturePacks>winpe-mdac</Boot.x86.FeaturePacks>
   <Boot.x64.UseBootWim>True</Boot.x64.UseBootWim>
-  <Boot.x64.ScratchSpace>32</Boot.x64.ScratchSpace>
+  <Boot.x64.ScratchSpace>128</Boot.x64.ScratchSpace>
   <Boot.x64.IncludeAllDrivers>False</Boot.x64.IncludeAllDrivers>
   <Boot.x64.IncludeNetworkDrivers>True</Boot.x64.IncludeNetworkDrivers>
   <Boot.x64.IncludeMassStorageDrivers>True</Boot.x64.IncludeMassStorageDrivers>
